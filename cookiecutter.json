@@ -1,0 +1,10 @@
+{
+  "full_name": "Cantik",
+  "github_username": "Cantik-Music-Player",
+  "project_name": "Cantik plugin",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+  "class_name": "{{ cookiecutter.project_name.title().replace(' ', '') }}",
+  "project_short_description": "A cantik plugin",
+  "version": "0.0.1",
+  "license": ["MIT", "BSD", "ISC", "Apache Software License 2.0", "GNU General Public License v3"]
+}
